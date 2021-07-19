@@ -37,3 +37,11 @@ Find out if it is good enough in action
 You've done a great work
 
 ![](img/step6_enjoy.PNG)
+
+### Note
+
+#### The images used above are taken from Braer Company Ad Video (produced by Lazy Square). 
+#### Here is a link to the video: 
+#### https://www.youtube.com/watch?v=ovOZt96du-M 
+
+#### All rights to the video and the images belong to Lazy Square!
