@@ -1,4 +1,4 @@
-# The Process:
+# General plot for modelling activities:
 
 The following steps are supposed to be performed within the modelling process 
 
